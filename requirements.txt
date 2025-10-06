@@ -1,0 +1,2 @@
+jaydebeapi>=1.2.3
+openai>=1.35.0
